@@ -20,7 +20,7 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/evanw/esbuild v0.11.16
 	github.com/fortytw2/leaktest v1.3.0
-	github.com/frankban/quicktest v1.12.0
+	github.com/frankban/quicktest v1.14.3
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/getkin/kin-openapi v0.61.0
 	github.com/ghodss/yaml v1.0.0
@@ -28,7 +28,7 @@ require (
 	github.com/gobwas/glob v0.2.3
 	github.com/gohugoio/go-i18n/v2 v2.1.3-0.20210430103248-4c28c89f8013
 	github.com/gohugoio/testmodBuilder/mods v0.0.0-20190520184928-c56af20f2e95
-	github.com/google/go-cmp v0.5.5
+	github.com/google/go-cmp v0.5.7
 	github.com/gorilla/websocket v1.4.2
 	github.com/jdkato/prose v1.2.1
 	github.com/kylelemons/godebug v1.1.0
@@ -49,7 +49,7 @@ require (
 	github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd
 	github.com/sanity-io/litter v1.5.0
 	github.com/spf13/afero v1.6.0
-	github.com/spf13/cast v1.3.1
+	github.com/spf13/cast v1.5.0
 	github.com/spf13/cobra v1.1.3
 	github.com/spf13/fsync v0.9.0
 	github.com/spf13/jwalterweatherman v1.1.0
